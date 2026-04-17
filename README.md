@@ -136,8 +136,8 @@ The design showcases:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/university-campus-network.git
-   cd university-campus-network
+   git clone https://github.com/aayushthakur001/Campus-network-design.git
+   cd Campus-network-design
    ```
 
 2. **Open the project file**
